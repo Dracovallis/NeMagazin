@@ -1,0 +1,7 @@
+C:\Users\draco\Desktop\random shit\projects\NeMagazin\NeMagazin\NeMagazin.Models\bin\Debug\netstandard1.4\NeMagazin.Models.deps.json
+C:\Users\draco\Desktop\random shit\projects\NeMagazin\NeMagazin\NeMagazin.Models\bin\Debug\netstandard1.4\NeMagazin.Models.dll
+C:\Users\draco\Desktop\random shit\projects\NeMagazin\NeMagazin\NeMagazin.Models\bin\Debug\netstandard1.4\NeMagazin.Models.pdb
+C:\Users\draco\Desktop\random shit\projects\NeMagazin\NeMagazin\NeMagazin.Models\obj\Debug\netstandard1.4\NeMagazin.Models.csprojResolveAssemblyReference.cache
+C:\Users\draco\Desktop\random shit\projects\NeMagazin\NeMagazin\NeMagazin.Models\obj\Debug\netstandard1.4\NeMagazin.Models.AssemblyInfo.cs
+C:\Users\draco\Desktop\random shit\projects\NeMagazin\NeMagazin\NeMagazin.Models\obj\Debug\netstandard1.4\NeMagazin.Models.dll
+C:\Users\draco\Desktop\random shit\projects\NeMagazin\NeMagazin\NeMagazin.Models\obj\Debug\netstandard1.4\NeMagazin.Models.pdb
